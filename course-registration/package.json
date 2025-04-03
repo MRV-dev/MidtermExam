@@ -1,0 +1,26 @@
+{
+  "name": "midtermexam",
+  "version": "1.0.0",
+  "description": "Student Management Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxelBunsay/MidtermExam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxelBunsay/MidtermExam/issues"
+  },
+  "homepage": "https://github.com/AxelBunsay/MidtermExam#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "moongose": "^1.0.0",
+    "nodemon": "^3.1.9"
+  }
+}
