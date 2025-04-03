@@ -1,2 +1,0 @@
-# MidtermExam
-Student Management Service
