@@ -6,7 +6,7 @@ const studentRoutes = require("./routes");
 
 const app = express();
 
-// Middleware
+// Middleware//
 app.use(express.json());
 app.use(cors());
 
